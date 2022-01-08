@@ -1,0 +1,3 @@
+name: serverless-aws-react-saas
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi SaaS Setup

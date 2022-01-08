@@ -1,0 +1,11 @@
+{
+  "name": "serverless-aws-react-saas-back-end",
+  "devDependencies": {
+    "@types/node": "^14"
+  },
+  "dependencies": {
+    "@pulumi/aws": "^4.0.0",
+    "@pulumi/awsx": "^0.30.0",
+    "@pulumi/pulumi": "^3.0.0"
+  }
+}

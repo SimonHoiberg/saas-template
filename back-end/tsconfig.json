@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "lib": ["es2017", "es2019", "es2020", "DOM"],
+    "declaration": false,
+    "rootDir": "./",
+    "outDir": ".build",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*.ts", "src/.d.ts", "index.ts", "resources/**/*.ts"]
+}
