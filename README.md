@@ -24,9 +24,9 @@ End-to-end SaaS Template using AWS Amplify, Apollo Client, Chakra, and NextJS.
 🔸 [React](https://reactjs.org) / [NextJS](https://nextjs.org/)  
 🔸 [Amplify](https://aws.amazon.com/amplify/)  
 🔸 [Apollo Client](https://www.apollographql.com/docs/react/get-started/setup/)  
-🔸 [Chakra](https://chakra-ui.com/)
-▪️ [Pulumi](https://pulumi.com/)
-▪️ [GitHub Actions](https://github.com/features/actions)
+🔸 [Chakra](https://chakra-ui.com/)  
+▪️ [Pulumi](https://pulumi.com/)  
+▪️ [GitHub Actions](https://github.com/features/actions)  
 
 ## Prerequisites
 
