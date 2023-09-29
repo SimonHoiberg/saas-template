@@ -23,7 +23,7 @@ End-to-end SaaS Template using AWS Amplify, Apollo Client, Chakra, and NextJS.
 🔹 [Cognito](https://aws.amazon.com/cognito/)  
 🔸 [React](https://reactjs.org) / [NextJS](https://nextjs.org/)  
 🔸 [Amplify](https://aws.amazon.com/amplify/)  
-🔸 [Apollo Client](https://www.apollographql.com/docs/react/get-started/setup/)  
+🔸 [Apollo Client](https://www.apollographql.com/docs/react/get-started)  
 🔸 [Chakra](https://chakra-ui.com/)  
 ▪️ [Pulumi](https://pulumi.com/)  
 ▪️ [GitHub Actions](https://github.com/features/actions)  
@@ -37,6 +37,10 @@ You will need to setup the [AWS CLI](https://docs.aws.amazon.com/cli/latest/user
 ### Create an account on Pulumi (https://pulumi.com/).
 
 You will need to setup the [Pulumi CLI](https://www.pulumi.com/docs/get-started/aws/begin/) and configure it with AWS.
+
+### Install NodeJS.
+
+We need NodeJS, so you need to setup [NodeJS](https://nodejs.org/en/download/) on your local system.
 
 ### Install Amplify CLI.
 
